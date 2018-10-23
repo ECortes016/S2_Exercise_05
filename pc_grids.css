@@ -12,6 +12,9 @@
 
 */
 
+/* div {
+    outline: 1px solid red;
+} */
 
 /* Grid Rows Styles */
 .row {
@@ -54,3 +57,18 @@ div [class^="col-"] {
 }
 
 /* Grid Outline Styles */
+
+
+
+
+
+
+/* PRACTICE */
+
+
+
+.patrickclawson #isanawesometeacher section {
+    display: grid;
+    grid-template-rows: 100px auto 100px auto;
+    grid-template-columns: 25% 50% 25%;
+}
